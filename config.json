@@ -174,9 +174,13 @@
       "name": "155"
     },  
    "jkunaklmzy": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "jkun爱坤联盟资源"
     },
+    "swzy": {
+      "api": "https://siwazyw.tv/api.php/provide/vod",
+      "name": "好看资源"
+   },
     "lsb": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lsb"
