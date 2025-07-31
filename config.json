@@ -176,10 +176,16 @@
    "jkunaklmzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "jkun爱坤联盟资源"
-   },
+    },
     "lsb": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lsb"
+    },
+   "custom_category": [
+     {
+      "name": "热门",
+      "type": "movie",
+      "query": "韩国"
     }
-  }
+  ]
 }
