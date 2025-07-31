@@ -180,12 +180,15 @@
     "lsb": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lsb"
+    }
+  }
+}
     },
    "custom_category": [
      {
       "name": "热门",
-      "type": "movie",
-      "query": "韩国"
+      "type": "tv",
+      "query": "韩剧"
     }
   ]
 }
