@@ -181,5 +181,27 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lsb"
     }
-  }
-}
+    },
+    "custom_category": [
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+    {
+      "name": "动漫",
+      "type": "tv",
+      "query": "日本动画"
+    },
+    {
+      "name": "纪录片",
+      "type": "tv",
+      "query": "纪录片"
+    } 
+  ]
+} 
